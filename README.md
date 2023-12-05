@@ -1,2 +1,2 @@
-# KATA-BANCO-DE-BOGOTA
+# KATA
 Daniela Riascos Urrego
